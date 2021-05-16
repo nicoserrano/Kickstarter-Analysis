@@ -13,6 +13,7 @@ Moreover, the second challenge we faced was that the deadline and the date launc
 ## Analysis
 We wanted to begin our analysis by looking at theater campaign outcomes based on their launch date. We did this by creating a Pivot table with *Category* and *Years* as filters, *Outcome* as column, *Date created* (being shown as months) in rows, and *count of Outcomes* as values. We filtered the campaigns for us just to see the theater category to end up with **Exhibit 1**. 
 
+[Contribution](Exhibit1.png)
 
 
 

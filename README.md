@@ -53,7 +53,9 @@ From the *outcomes vs goals* portion, we were able to conclude that the percenta
 More specifically, we then came up with one last line graph **(Exhibit 3: Outcomes (count) based on Goals)**, which showed that the amount of successful campaigns was considerable higher in the *$1,000 to $4,999* interval. Allowing us to conclude that Louise should consider for sure coming up with a campaign goal within the range of $0 to no more than $15,000, but more specifically, it should be in the range of $1,000 to $4,999 as data shows this happens to be the sweet spot where campaigns have succeeded the most. 
 
 ### Dataset Limitations
-Moreover, the dataset limitation we encountered was that the data was a bit too old. If we wanted to suggest Louis to take a certain course of action after analyzing the kickstarter data we were given, we would want to include some more data past 2017. This way, we could make a better recommendation. Out of the 4,114 campaigns we had 3,037 were from the US and 603 were from Great Britain. If we woulnd have wanted to help Louis come up with a play fundraising campaign in Great Britain we would have appreciated a larger dataset. Other than that, the data was clean and straight forward. It had all of the information we could have wanted for kickstarter campaigns.
+Moreover, the dataset limitation we encountered was that the data was a bit too old. If we wanted to suggest Louis to take a certain course of action after analyzing the kickstarter data we were given, we would want to include some more data past 2017. This way, we could make a better recommendation. Additionally, out of the 4,114 campaigns we had 3,037 were from the US and 603 were from Great Britain. If we would have wanted to help Louis come up with a play fundraising campaign in Great Britain we would have appreciated a larger dataset. Other than that, the data was clean and straight forward. It had all of the information we could have wanted for kickstarter campaigns.
+
+### 
 
 
 

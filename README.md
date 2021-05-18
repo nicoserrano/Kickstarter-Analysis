@@ -56,11 +56,16 @@ More specifically, we then came up with one last line graph **(Exhibit 3: Outcom
 Moreover, the dataset limitation we encountered was that the data was a bit too old. If we wanted to suggest Louise to take a certain course of action after analyzing the kickstarter data we were given, we would want to include some more data past 2017. This way, we could make a better recommendation. Additionally, out of the 4,114 campaigns we had 3,037 were from the US and 603 were from Great Britain. If we would have wanted to help Louise come up with a play fundraising campaign in Great Britain we would have appreciated a larger dataset. Other than that, the data was clean and straight forward. It had all of the information we could have wanted for kickstarter campaigns.
 
 ### Other Posible Exhibits
-As the analysis was approached, we could observe that there were possible exhibits that helped understand the analysis. The first extra exhibit intriduced was Exhibit 2, that showed the calculations done to get the percentages of successful, failed, and canceled campaigns for play campaigns. In the table, we used the `=COUNTIF` function to count how many campaigns were from plays, inside intervals, and different outcomes. Then we used `=SUM` to find the total amount of projects to then come up with the percentages. 
+As the analysis was approached, we could observe that there were possible exhibits that helped understand the analysis. The first extra exhibit intriduced was Exhibit 2, that showed the calculations done to get the percentages of successful, failed, and canceled campaigns for play campaigns. In the table, we used the `=COUNTIF()` function to count how many campaigns were from plays, inside intervals, and different outcomes. Then we used `=SUM()` to find the total amount of projects to then come up with the percentages. 
 
 Moreover, another graph we used was Exhibit 4 (Outcomes (count) based on Goals) which gave another perspective of the different outcomes based on the funding goal the campaign had. It allowed us to draw a more specific conclusion as it specifically showed that the $1000 to $4999 interval had significantly more successful campaigns than failed, which we included in our results and recommendation to Louise. 
 
-And last but not least, we could have made a bar graph that showed ***Outcomes based on Years***. This could have been made by displaying *outcome* in columns, *years* in row* and *count of outcomes* in values, and filtering by country for us to break it down just to the US. 
+And last but not least, we could have made a bar graph that showed ***Outcomes based on Year Created***. This could have been made by displaying *outcome* in columns, *years* in row* and *count of outcomes* in values, and filtering by country for us to break it down just to the US too se if there were any trends. However, this experience allowed us to understand that sometimes data we analyze don't show us what we want. 
+
+![Outcomes_vs_Years](https://user-images.githubusercontent.com/83378141/118580652-40fc0880-b75e-11eb-91b7-98b16439c5ee.png)
+
+In this case, there appears to be no trend at all. Even for 2017, it seems that the total number of campaigns was very small compared to to other years. We could assume this happened because of the date the data was collected. Maybe the data was pulled midway 2017, and that is why there were less campaigns created in that year. 
+
 
 
 

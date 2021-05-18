@@ -53,9 +53,15 @@ From the *outcomes vs goals* portion, we were able to conclude that the percenta
 More specifically, we then came up with one last line graph **(Exhibit 3: Outcomes (count) based on Goals)**, which showed that the amount of successful campaigns was considerable higher in the *$1,000 to $4,999* interval. Allowing us to conclude that Louise should consider for sure coming up with a campaign goal within the range of $0 to no more than $15,000, but more specifically, it should be in the range of $1,000 to $4,999 as data shows this happens to be the sweet spot where campaigns have succeeded the most. 
 
 ### Dataset Limitations
-Moreover, the dataset limitation we encountered was that the data was a bit too old. If we wanted to suggest Louis to take a certain course of action after analyzing the kickstarter data we were given, we would want to include some more data past 2017. This way, we could make a better recommendation. Additionally, out of the 4,114 campaigns we had 3,037 were from the US and 603 were from Great Britain. If we would have wanted to help Louis come up with a play fundraising campaign in Great Britain we would have appreciated a larger dataset. Other than that, the data was clean and straight forward. It had all of the information we could have wanted for kickstarter campaigns.
+Moreover, the dataset limitation we encountered was that the data was a bit too old. If we wanted to suggest Louise to take a certain course of action after analyzing the kickstarter data we were given, we would want to include some more data past 2017. This way, we could make a better recommendation. Additionally, out of the 4,114 campaigns we had 3,037 were from the US and 603 were from Great Britain. If we would have wanted to help Louise come up with a play fundraising campaign in Great Britain we would have appreciated a larger dataset. Other than that, the data was clean and straight forward. It had all of the information we could have wanted for kickstarter campaigns.
 
-### 
+### Other Posible Exhibits
+As the analysis was approached, we could observe that there were possible exhibits that helped understand the analysis. The first extra exhibit intriduced was Exhibit 2, that showed the calculations done to get the percentages of successful, failed, and canceled campaigns for play campaigns. In the table, we used the `=COUNTIF` function to count how many campaigns were from plays, inside intervals, and different outcomes. Then we used `=SUM` to find the total amount of projects to then come up with the percentages. 
+
+Moreover, another graph we used was Exhibit 4 (Outcomes (count) based on Goals) which gave another perspective of the different outcomes based on the funding goal the campaign had. It allowed us to draw a more specific conclusion as it specifically showed that the $1000 to $4999 interval had significantly more successful campaigns than failed, which we included in our results and recommendation to Louise. 
+
+And last but not least, we could have made a bar graph that showed ***Outcomes based on Years***. This could have been made by displaying *outcome* in columns, *years* in row* and *count of outcomes* in values, and filtering by country for us to break it down just to the US. 
+
 
 
 
